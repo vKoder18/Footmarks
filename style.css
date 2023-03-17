@@ -59,27 +59,13 @@ nav ul li a
     color: white;
     font-family: sans-serif;
 }
-nav ul li button
-{
-    font-size: 20px;
-    color: white;
-    outline: none;
-    border: none;
-    background: transparent;
-    cursor: pointer;
-    font-family: sans-serif;
-}
+
 
 nav ul li a:hover
 {
     color: aqua;
 }
-a
-{
-    text-decoration: none;
-    color: palevioletred;
-    font-size: 28px;
-}
+
 
 
 
