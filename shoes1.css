@@ -128,12 +128,12 @@ img{
     color: #FF9F00;
 }
 .buy-now-btn{
-    background-color: #000;
-    border: 2px solid #000;
+    background-color: #cd4712;
+    border: 2px solid #cd4712;
 }
 .buy-now-btn:hover{
     background-color: #fff;
-    color: #000;
+    color: #cd4712;
 }
 
 @media screen and (max-width: 992px){
